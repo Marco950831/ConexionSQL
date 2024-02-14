@@ -1,0 +1,10 @@
+C:\Users\Nestor\Documents\Marco\Repos\ConexionSQL\CONECTINGSQL1\CONECTINGSQL1\bin\Debug\CONECTINGSQL1.exe.config
+C:\Users\Nestor\Documents\Marco\Repos\ConexionSQL\CONECTINGSQL1\CONECTINGSQL1\bin\Debug\CONECTINGSQL1.exe
+C:\Users\Nestor\Documents\Marco\Repos\ConexionSQL\CONECTINGSQL1\CONECTINGSQL1\bin\Debug\CONECTINGSQL1.pdb
+C:\Users\Nestor\Documents\Marco\Repos\ConexionSQL\CONECTINGSQL1\CONECTINGSQL1\obj\Debug\CONECTINGSQL1.csproj.AssemblyReference.cache
+C:\Users\Nestor\Documents\Marco\Repos\ConexionSQL\CONECTINGSQL1\CONECTINGSQL1\obj\Debug\CONECTINGSQL1.Form1.resources
+C:\Users\Nestor\Documents\Marco\Repos\ConexionSQL\CONECTINGSQL1\CONECTINGSQL1\obj\Debug\CONECTINGSQL1.Properties.Resources.resources
+C:\Users\Nestor\Documents\Marco\Repos\ConexionSQL\CONECTINGSQL1\CONECTINGSQL1\obj\Debug\CONECTINGSQL1.csproj.GenerateResource.cache
+C:\Users\Nestor\Documents\Marco\Repos\ConexionSQL\CONECTINGSQL1\CONECTINGSQL1\obj\Debug\CONECTINGSQL1.csproj.CoreCompileInputs.cache
+C:\Users\Nestor\Documents\Marco\Repos\ConexionSQL\CONECTINGSQL1\CONECTINGSQL1\obj\Debug\CONECTINGSQL1.exe
+C:\Users\Nestor\Documents\Marco\Repos\ConexionSQL\CONECTINGSQL1\CONECTINGSQL1\obj\Debug\CONECTINGSQL1.pdb
