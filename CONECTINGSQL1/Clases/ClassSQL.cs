@@ -12,11 +12,11 @@ namespace CONECTINGSQL1.Clases
 
     {
         SqlConnection conex = new SqlConnection();
-        static string servidor = "localhost" ;
-        static string bd = "SistemaF";
-        static string usuario ="sa";
-        static string password = "adminP@ss21";
-        static string puerto = "1433";
+        static string servidor = "" ;
+        static string bd = "";
+        static string usuario ="";
+        static string password = "";
+        static string puerto = "";
 
         string CadenaConexion = "Data source=" + servidor + "," + puerto + ";" + "user id=" + usuario + ";" + "password=" + password + ";" + "Initial Catalog=" + bd + ";" + "Persist Security Info = true";
 
